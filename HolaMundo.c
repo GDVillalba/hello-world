@@ -10,6 +10,7 @@ int main()
     if(a != *c)
     {
         printf("Hola Mundo");
+		printf("Hola de vuelta");
     }
 
     return 0;
